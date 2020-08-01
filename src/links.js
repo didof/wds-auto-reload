@@ -5,6 +5,6 @@ export default [
    },
    {
       label: 'GitHub',
-      url: 'https://dev.to/didof/webpack-dev-server-auto-reload-on-webpack-config-js-tweak-2jln'
+      url: 'https://github.com/didof/wds-auto-reload'
    },
 ]
